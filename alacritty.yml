@@ -7,7 +7,7 @@ window:
   position:
     x: 1920
     y: 0
-  opacity: 0.99
+  opacity: 1
   padding:
     x: 18
     y: 20
@@ -18,7 +18,7 @@ font:
   normal:
     family: "MesloLGS Nerd Font"
     style: Regular
-  size: 20
+  size: 21
 
   bold:
     family: "MesloLGS Nerd Font"
@@ -26,15 +26,8 @@ font:
     size: 20.0
   offset:
     x: 1
-    y: 3
+    y: 0
 
 colors:
   primary:
     background: "#0e1a24"
-
-# Tmux用の設定
-# key_bindings:
-#   - { key: T,      mods: Command,             chars: "\x11\x63"   }
-#   - { key: D,      mods: Command,             chars: "\x11\x25"   }
-#   - { key: D,      mods: Command|Shift,       chars: "\x11\x22"   }
-#   - { key: W,      mods: Command,             chars: "\x11\x78"   }

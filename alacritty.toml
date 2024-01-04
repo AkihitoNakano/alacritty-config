@@ -1,0 +1,16 @@
+import = ["~/.config/alacritty/themes/themes/gotham.toml"]
+
+live_config_reload = true
+
+[window]
+decorations = "buttonless"
+position = { x = 1920, y = 0 }
+opacity = 1.0
+padding = { x = 18, y = 20 }
+dynamic_padding = false
+
+[font]
+normal = { family = "MesloLGS Nerd Font", style = "Regular" }
+size = 17.0
+bold = { family = "MesloLGS Nerd Font", style = "Bold" }
+offset = { x = 1, y = 0 }

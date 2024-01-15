@@ -11,6 +11,6 @@ dynamic_padding = false
 
 [font]
 normal = { family = "MesloLGS Nerd Font", style = "Regular" }
-size = 17.0
+size = 16.0
 bold = { family = "MesloLGS Nerd Font", style = "Bold" }
 offset = { x = 1, y = 0 }
